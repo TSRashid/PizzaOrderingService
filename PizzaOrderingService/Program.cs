@@ -3,6 +3,7 @@
     static SalesStatistics salesStatistics = new SalesStatistics();
     static int currentOrderNumber = 1;
 
+    // main method 
     static void Main(string[] args)
     {
         while (true)
